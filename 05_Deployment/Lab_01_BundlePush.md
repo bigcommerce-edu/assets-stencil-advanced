@@ -112,4 +112,4 @@ Note: [stencil pull](https://docs.bigcommerce.com/developer/docs/storefront/sten
 
 Pulls the configuration from the active theme on your live store and updates your local configuration.
 
-This is useful if any theme settings have been changed within Page Builder, as it will prevent you from overwriting them with your next theme upload by first syncing them.
+This is useful if any theme settings have been changed within the Theme Styles interface in the control panel, as it will prevent you from overwriting them with your next theme upload by first syncing them.
